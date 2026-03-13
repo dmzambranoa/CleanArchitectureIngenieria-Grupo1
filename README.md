@@ -1,2 +1,3 @@
 # CleanArchitectureIngenieria-Grupo1
-## Taller2 dc
+## Taller 2 – Implementación del Patrón Repository
+
